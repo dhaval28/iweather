@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:irisweather="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/currentLocation"
+        android:icon="@drawable/ic_action_navigation_refresh"
+        android:title="@string/update_location"
+        irisweather:showAsAction="ifRoom|withText" />
+</menu>

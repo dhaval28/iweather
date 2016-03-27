@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Iris Weather</string>
+    <string name="temperature">Temperature</string>
+    <string name="condition">Condition</string>
+    <string name="location">Location</string>
+    <string name="powered_by_yahoo">powered by Yahoo!</string>
+    <string name="condition_icon">Condition Icon</string>
+    <string name="loading">Connecting to Bluemix&#8230;</string>
+    <string name="temperature_output">%1$d &#176;C</string>
+    <string name="update_location">Update Location</string>
+</resources>
